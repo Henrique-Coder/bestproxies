@@ -1,0 +1,11 @@
+# IDE
+.idea
+.venv
+__pycache__
+
+# Custom directories
+.checker
+
+# Custom extensions/files
+*.py
+requirements.txt
