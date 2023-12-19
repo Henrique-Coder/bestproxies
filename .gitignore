@@ -9,5 +9,6 @@ scraped
 # Custom extensions/files
 *.py
 *.log
+*.json
 requirements.txt
 user_agents.txt
