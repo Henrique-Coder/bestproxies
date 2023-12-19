@@ -4,8 +4,10 @@
 __pycache__
 
 # Custom directories
-.checker
+scraped
 
 # Custom extensions/files
 *.py
+*.log
 requirements.txt
+user_agents.txt
