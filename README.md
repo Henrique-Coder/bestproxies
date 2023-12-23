@@ -13,6 +13,10 @@
 - List of best public `SOCKS4` proxies (active) ➝ [socks4.txt](https://raw.githubusercontent.com/Henrique-Coder/bestproxies/main/socks4.txt) ・ [socks4-mirror-1](https://cdn.jsdelivr.net/gh/Henrique-Coder/bestproxies/socks4.txt)
 - List of best public `SOCKS5` proxies (active) ➝ [socks5.txt](https://raw.githubusercontent.com/Henrique-Coder/bestproxies/main/socks5.txt) ・ [socks5-mirror-1](https://cdn.jsdelivr.net/gh/Henrique-Coder/bestproxies/socks5.txt)
 
+---
+
+- List of all best public proxies (active) ➝ [all.txt](https://raw.githubusercontent.com/Henrique-Coder/bestproxies/main/all.txt) ・ [all-mirror-1](https://cdn.jsdelivr.net/gh/Henrique-Coder/bestproxies/all.txt)
+
 ### Notes
 
 - The proxy lists are updated automatically every **8** hours;
