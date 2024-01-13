@@ -3,12 +3,12 @@
 .venv
 __pycache__
 
-# Custom directories
-scraped
+# Directories
+.old
 
-# Custom extensions/files
-*.py
-*.log
-*.json
+# Files
 requirements.txt
-user_agents.txt
+config.json
+
+# Extensions
+*.py
