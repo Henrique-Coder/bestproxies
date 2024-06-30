@@ -5,11 +5,12 @@ __pycache__
 
 # Directories
 .debug
-scraped
 
 # Files
 # ...
 
 # Extensions
-*.py
+*.env
 *.json
+*.py
+*.txt
